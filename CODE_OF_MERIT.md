@@ -12,7 +12,7 @@ Don't expect others to do your work or help you with your work forever.
 within the project.
 
 4. Authority or position in the project will be proportional
-to the accrued contribution. Seniority must be earned.
+to the accrued contribution. Seniority must be earned. good complexity and datam that will help him in the long term before joining the forces.
 
 5. Software is evolutive: the better implementations must supersede lesser
 implementations. Technical advantage is the primary evaluation metric.
